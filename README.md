@@ -1,5 +1,5 @@
-- 👋 Olá, Eu seou Paulo Henrique
-- 👀 Eu me interesso por leitura, programação e finanças
+- 👋 Olá, Eu sou Paulo Henrique Belarmino
+- 👀 Eu me interesso por literatura, programação e finanças
 - 🌱 Atualmente estou aprendendo HTML, CSS e Javascript, também tenho conhecimento em Java Poo
 - 📫 Caso queira me encontrar entre em contato por este canal, ou pelo email paulobelarmino047@gmail.com
 
