@@ -1,4 +1,10 @@
-<h2 align="left">Olá, Eu sou Paulo Henrique Belarmino<br>- Eu me interesso por literatura, programação e finanças<br>- Curto desenvolvimento Front-End, e sim sou o cara das telhinhas 🖼<br>-Tem conhecimento forte em Back-End👨‍💻</h2>
+<h2 align="left">👋 Olá! Eu sou Paulo Henrique Belarmino<br><br>
+🎯 Desenvolvedor apaixonado por transformar ideias em soluções digitais<br><br>
+- 📚 Apaixonado por <strong>literatura</strong>, <strong>programação</strong> e <strong>finanças</strong><br>
+- 🎨 Especialista em desenvolvimento <strong>Front-End</strong> - criando experiências visuais incríveis 🖼️<br>
+- 💻 Sólida experiência em <strong>Back-End</strong> - construindo arquiteturas robustas 👨‍💻<br>
+- 🚀 Full-Stack Developer que conecta o melhor dos dois mundos
+</h2>
 
 ###
 
