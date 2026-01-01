@@ -78,11 +78,3 @@
 <p align="center">
   <em>💡 "Código limpo não é escrito seguindo regras. É escrito com amor, cuidado e atenção aos detalhes."</em>
 </p>
-
-<!---
-Phcode007/Phcode007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Phcode007/Phcode007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
